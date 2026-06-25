@@ -16,7 +16,7 @@
 | Quiz 1             |   4%    |      97.0 |                |                                              |
 | Assignment 2       |  10%    |           |                |                                              |
 | Quiz 2             |   4%    |           |                |                                              |
-| Test I             |  15%    |     80.00 |                |                                              |
+| Test I             |  15%    |      80.0 |                |                                              |
 | Assignment 3       |  13%    |           |                |                                              |
 | Test II            |  15%    |           |                |                                              |
 | Project            |  15%    |           |                |                                              |
